@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nithincod
 - 👀 I’m interested in App development and machineLearning
 - 🌱 I’m currently learning Natural launguage processing(NLP)
-- 💞️ I’m looking to collaborate on APP and mL BASED PROJETS
+- 💞️ I’m looking to collaborate on APP and mL based projects.
 - 📫 How to reach me nithinrohitian@gmail.com
 - 😄 Pronouns: she,you
 
